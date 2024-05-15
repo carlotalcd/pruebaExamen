@@ -12,6 +12,7 @@ public class Padrecito extends RefactorPadrePush {
     
     String nombre = "Soy tu Padre";
     String apellido = "Ortega";
+    String ciudad = "Zaragoza";
 
     public Padrecito() {
     }
